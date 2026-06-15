@@ -30,7 +30,11 @@ optional_scopes = [ ]
 use_legacy_install_flow = false
 
 [auth]
-redirect_urls = [ ]
+redirect_urls = [
+  "https://rubaiyat-zatca-qr-1.onrender.com/auth/callback",
+  "https://rubaiyat-zatca-qr-1.onrender.com/auth/shopify/callback",
+  "https://rubaiyat-zatca-qr-1.onrender.com/api/auth/callback"
+]
 
 [metaobjects.app.example]
 name = "Example"
