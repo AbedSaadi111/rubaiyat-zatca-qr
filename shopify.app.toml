@@ -2,7 +2,7 @@
 
 client_id = "11b62ec8c7b47266b97f404e419d7a71"
 name = "Rubaiyat ZATCA QR"
-application_url = "https://progressive-smart-dow-advances.trycloudflare.com"
+application_url = "https://rubaiyat-zatca-qr-1.onrender.com"
 embedded = true
 
 [build]
